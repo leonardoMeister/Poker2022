@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker.Dominio", "Poker.Dominio\Poker.Dominio.csproj", "{3D082441-D1BF-427A-B336-93278B8044F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker.Teste", "Poker.Teste\Poker.Teste.csproj", "{733AB296-97BC-48A7-8FED-0D7BC5143BA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3D082441-D1BF-427A-B336-93278B8044F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D082441-D1BF-427A-B336-93278B8044F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D082441-D1BF-427A-B336-93278B8044F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733AB296-97BC-48A7-8FED-0D7BC5143BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733AB296-97BC-48A7-8FED-0D7BC5143BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733AB296-97BC-48A7-8FED-0D7BC5143BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733AB296-97BC-48A7-8FED-0D7BC5143BA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
